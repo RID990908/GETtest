@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{4583BA9A-F7CB-4201-8EC5-4599810D78B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostalIslaAzul.Domain", "Backend\HostalIslaAzul.Domain\HostalIslaAzul.Domain.csproj", "{F14FD372-B52B-4799-811A-B2F44093A7D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostalIslaAzul.Application", "Backend\HostalIslaAzul.Application\HostalIslaAzul.Application.csproj", "{8D522AAC-82C9-422F-B441-3148A49F3007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostalIslaAzul.Infrastructure", "Backend\HostalIslaAzul.Infrastructure\HostalIslaAzul.Infrastructure.csproj", "{BEACDF43-2357-4F57-9812-9D6ADF6276AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostalIslaAzul.API", "Backend\HostalIslaAzul.API\HostalIslaAzul.API.csproj", "{16DEDF6A-CC96-4F0A-924C-14C26D38DD24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E8B1EFC3-0B38-41C4-83C5-5CD4B954A2EB}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14FD372-B52B-4799-811A-B2F44093A7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14FD372-B52B-4799-811A-B2F44093A7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14FD372-B52B-4799-811A-B2F44093A7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14FD372-B52B-4799-811A-B2F44093A7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D522AAC-82C9-422F-B441-3148A49F3007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D522AAC-82C9-422F-B441-3148A49F3007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D522AAC-82C9-422F-B441-3148A49F3007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D522AAC-82C9-422F-B441-3148A49F3007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEACDF43-2357-4F57-9812-9D6ADF6276AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEACDF43-2357-4F57-9812-9D6ADF6276AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEACDF43-2357-4F57-9812-9D6ADF6276AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEACDF43-2357-4F57-9812-9D6ADF6276AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16DEDF6A-CC96-4F0A-924C-14C26D38DD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DEDF6A-CC96-4F0A-924C-14C26D38DD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DEDF6A-CC96-4F0A-924C-14C26D38DD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DEDF6A-CC96-4F0A-924C-14C26D38DD24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F14FD372-B52B-4799-811A-B2F44093A7D1} = {4583BA9A-F7CB-4201-8EC5-4599810D78B4}
+		{8D522AAC-82C9-422F-B441-3148A49F3007} = {4583BA9A-F7CB-4201-8EC5-4599810D78B4}
+		{BEACDF43-2357-4F57-9812-9D6ADF6276AF} = {4583BA9A-F7CB-4201-8EC5-4599810D78B4}
+		{16DEDF6A-CC96-4F0A-924C-14C26D38DD24} = {4583BA9A-F7CB-4201-8EC5-4599810D78B4}
+	EndGlobalSection
+EndGlobal

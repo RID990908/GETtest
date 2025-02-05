@@ -1,0 +1,22 @@
+﻿version: '3.8'
+services:
+  api:
+    build: .
+    ports:
+      - "5000:80"
+    depends_on:
+      - database
+      - redis
+  database:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "rid"
+      POSTGRES_DB: "HotelIslaAzul"
+      ACCEPT_EULA: "Y"
+      PORT: "1433"
+        
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379:6379"

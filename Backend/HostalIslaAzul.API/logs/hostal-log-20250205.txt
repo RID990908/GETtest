@@ -1,0 +1,1 @@
+2025-02-05 13:22:26.888 -05:00 [INF] Iniciando aplicación HostalIslaAzul

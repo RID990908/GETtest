@@ -1,0 +1,17 @@
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\bin\Debug\net8.0\HostalIslaAzul.Application.deps.json
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\bin\Debug\net8.0\HostalIslaAzul.Application.dll
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\bin\Debug\net8.0\HostalIslaAzul.Application.pdb
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\bin\Debug\net8.0\HostalIslaAzul.Domain.dll
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\bin\Debug\net8.0\HostalIslaAzul.Infrastructure.dll
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\bin\Debug\net8.0\HostalIslaAzul.Domain.pdb
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\bin\Debug\net8.0\HostalIslaAzul.Infrastructure.pdb
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\obj\Debug\net8.0\HostalIslaAzul.Application.csproj.AssemblyReference.cache
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\obj\Debug\net8.0\HostalIslaAzul.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\obj\Debug\net8.0\HostalIslaAzul.Application.AssemblyInfoInputs.cache
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\obj\Debug\net8.0\HostalIslaAzul.Application.AssemblyInfo.cs
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\obj\Debug\net8.0\HostalIslaAzul.Application.csproj.CoreCompileInputs.cache
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\obj\Debug\net8.0\HostalIs.639F1F4A.Up2Date
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\obj\Debug\net8.0\HostalIslaAzul.Application.dll
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\obj\Debug\net8.0\refint\HostalIslaAzul.Application.dll
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\obj\Debug\net8.0\HostalIslaAzul.Application.pdb
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Application\obj\Debug\net8.0\ref\HostalIslaAzul.Application.dll

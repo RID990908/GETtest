@@ -1,0 +1,12 @@
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\obj\Debug\net8.0\HostalIslaAzul.Domain.csproj.AssemblyReference.cache
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\obj\Debug\net8.0\HostalIslaAzul.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\obj\Debug\net8.0\HostalIslaAzul.Domain.AssemblyInfoInputs.cache
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\obj\Debug\net8.0\HostalIslaAzul.Domain.AssemblyInfo.cs
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\obj\Debug\net8.0\HostalIslaAzul.Domain.csproj.CoreCompileInputs.cache
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\bin\Debug\net8.0\HostalIslaAzul.Domain.deps.json
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\bin\Debug\net8.0\HostalIslaAzul.Domain.dll
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\bin\Debug\net8.0\HostalIslaAzul.Domain.pdb
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\obj\Debug\net8.0\HostalIslaAzul.Domain.dll
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\obj\Debug\net8.0\refint\HostalIslaAzul.Domain.dll
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\obj\Debug\net8.0\HostalIslaAzul.Domain.pdb
+D:\Trabajo\GET\HostalIslaAzul\Backend\HostalIslaAzul.Domain\obj\Debug\net8.0\ref\HostalIslaAzul.Domain.dll
